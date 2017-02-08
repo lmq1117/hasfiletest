@@ -1,0 +1,2 @@
+删错了，需要把这个文件找回来
+git checkout -- rmerr.txt
