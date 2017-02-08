@@ -1,0 +1,4 @@
+编辑文件整个流程来一遍
+git add all1.txt
+git commit -m '整个流程来一遍'
+git push origin master
