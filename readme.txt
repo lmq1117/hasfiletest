@@ -1,3 +1,8 @@
 read me 干啥啊
 git管理的是修改
 add后的内容aaaaaaaaaaaa
+正常内容
+aaaaaaaaaaa
+bbbbbbbbbb
+bbbbbbbbbbb
+ccccccccccc
